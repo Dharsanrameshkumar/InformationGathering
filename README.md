@@ -64,7 +64,7 @@ https://web.archive.org/
 
 <img width="405" alt="image" src="https://github.com/user-attachments/assets/9b81e5ea-42b0-401f-88d4-60626f275a08">
 
-## httprint
+
 
 ## TCP Traceroute:
 
