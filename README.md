@@ -66,6 +66,21 @@ https://web.archive.org/
 
 ## httprint
 
+## TCP Traceroute:
+
+
+<img width="429" alt="image" src="https://github.com/user-attachments/assets/bede1494-21de-4304-961d-4aa32d770ab6">
+
+## UDP Traceroute:
+
+
+<img width="394" alt="image" src="https://github.com/user-attachments/assets/ea66dd09-765d-4c5f-978d-36427f1ab9b1">
+
+
+## ICMP Traceroute:
+<img width="410" alt="image" src="https://github.com/user-attachments/assets/79d7ba4d-9061-4ce5-9899-9045f9c056b8">
+
+
 
 ## RESULT:
 The information gathering techniques tools/procedure were  identified successfully
